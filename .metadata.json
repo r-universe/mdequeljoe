@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rdoc",
+    "oncran": true
+  },
+  {
+    "package": "readsdmx",
+    "oncran": true
+  }
+]
