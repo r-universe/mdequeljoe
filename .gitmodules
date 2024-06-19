@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rdoc"]
-	path = rdoc
-	url = https://github.com/mdequeljoe/rdoc
 [submodule "readsdmx"]
 	path = readsdmx
 	url = https://github.com/mdequeljoe/readsdmx
